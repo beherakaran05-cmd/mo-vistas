@@ -1,3 +1,3 @@
 # mo-vistas
 to make a app to make odisha into a tourist location 
-heritage spots that most people don't even know exist. The biggest hurdle isn't a lack of beauty-it's that finding reliable info on how to reach them, where to stay, and what to eat is nearly impossible. 1000204284.jpg +1 We are building a simple, community-driven mobile guide that puts these hidden gems on the map, while making sure the economic benefits go straight into the hands of local villagers and homestav ners.
+heritage spots that most people don't even know exist. The biggest hurdle isn't a lack of beauty-it's that finding reliable info on how to reach them, where to stay, and what to eat is nearly impossible. We are building a simple, community-driven mobile guide that puts these hidden gems on the map, while making sure the economic benefits go straight into the hands of local villagers and homestav ners.
