@@ -27,14 +27,6 @@ python -m http.server 8000
 
 Then open `http://localhost:8000`.
 
-## Publish using GitHub Pages
-
-1. Create a GitHub repository named `mo-vistas`.
-2. Upload the files and folders in this project to the repository root. Upload the contents of this folder, not just the ZIP file.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Choose the `main` branch and `/ (root)` folder, then save.
-6. Wait for the Pages deployment to finish. GitHub will show the published URL in the Pages settings.
 
 ## Current demo destinations
 
