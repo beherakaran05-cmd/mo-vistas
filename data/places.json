@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Udayagiri & Khandagiri",
+    "region": "Bhubaneswar area",
+    "category": "Heritage",
+    "experience": "Ancient history",
+    "verification_status": "demo_unverified"
+  },
+  {
+    "name": "Daringbadi",
+    "region": "Kandhamal district",
+    "category": "Nature",
+    "experience": "Hill country",
+    "verification_status": "demo_unverified"
+  },
+  {
+    "name": "Ratnagiri Buddhist Site",
+    "region": "Jajpur district",
+    "category": "Heritage",
+    "experience": "Buddhist heritage",
+    "verification_status": "demo_unverified"
+  },
+  {
+    "name": "Chilika Lagoon",
+    "region": "Coastal Odisha",
+    "category": "Nature",
+    "experience": "Wetlands & wildlife",
+    "verification_status": "demo_unverified"
+  },
+  {
+    "name": "Pipili Appliqué",
+    "region": "Puri district",
+    "category": "Culture",
+    "experience": "Craft & makers",
+    "verification_status": "demo_unverified"
+  },
+  {
+    "name": "Deomali Hills",
+    "region": "Koraput district",
+    "category": "Nature",
+    "experience": "Mountain views",
+    "verification_status": "demo_unverified"
+  }
+]
